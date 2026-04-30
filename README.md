@@ -1,4 +1,3 @@
-
 # Olá, eu sou a Camila Santos 👋
 
 Sou Desenvolvedora Front-end Júnior, apaixonada por criar interfaces modernas, responsivas e com boa experiência para o usuário.
@@ -48,3 +47,5 @@ Sistema web para uma confeitaria, com área do cliente, carrinho, cadastro de en
 ---
 
 ✨ Obrigada por visitar meu perfil!
+
+<!-- profile-readme -->
